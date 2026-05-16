@@ -99,7 +99,8 @@ python3 traffic_equilibrium.py --experiment perturbation --demand-factor 1.05 --
 
 ## Main Outputs
 
-Use `convergence.svg` to discuss convergence:
+<img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/e3324c9e-422b-4a51-b783-963fd657c179" />
+
 
 ```text
 relative ||x^{k+1} - x^k||_2
@@ -107,8 +108,3 @@ relative ||x^{k+1} - x^k||_2
 
 Use `equilibrium_flows.csv` as the computed approximate equilibrium flow.
 
-For a dissertation-style numerical analysis discussion, focus on:
-
-- whether MSA converges smoothly
-- how different step sizes affect oscillation or stability
-- how much equilibrium flow changes after demand perturbation
