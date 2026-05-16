@@ -67,8 +67,8 @@ python3 traffic_equilibrium.py
 By default it reads:
 
 ```text
-/Users/yujiewu/Desktop/ESDA dissertation/traffic/SiouxFalls_net.csv
-/Users/yujiewu/Desktop/ESDA dissertation/traffic/SiouxFalls_od.csv
+SiouxFalls_net.csv
+SiouxFalls_od.csv
 ```
 
 Outputs are written to `results/`:
